@@ -37,3 +37,5 @@ All code was written and executed in Visual Studio Code (VS Code). The integrate
 In conclusion, this project demonstrates how real-time communication can be achieved using browser technologies and WebSockets. While the current version supports communication between tabs, the structure and logic are in place to upgrade it for broader, networked usage. This project serves as a strong foundation for more advanced chat applications.
 
 OUTPUT : 
+
+https://github.com/user-attachments/assets/4ef67af4-4b36-4c82-8532-062555bdc8cb
